@@ -1,2 +1,3 @@
 Compte rendu du TP Git et GitHub
 Auteur : Foulen Ben Foulen
+"Version variante du compte rendu"
